@@ -1,0 +1,58 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+
+.project {
+    background-color: brown;
+    border: 5px solid ;
+    color: burlywood;
+    width: fit-content;
+    margin: 400px;
+    border: 20px;
+    width: 40%;
+    padding: 20px;
+
+    h3 {
+        font-size: 20px;
+        font-style: italic;
+        text-transform: capitalize;
+        margin-bottom: 20px;
+    }
+
+    h1 {
+        font-size: 30px;
+        text-transform: capitalize;
+        font-style: italic;
+        margin-bottom: 20px;
+    }
+
+    h2 {
+        font-size: 30px;
+        font-style: italic;
+        text-transform: capitalize;
+        margin-bottom: 20px;
+    }
+
+    p {
+        text-align: justify;
+        font-style: italic;
+        font-size: 10px;
+        margin-bottom: 20px;
+    }
+
+    #logo{
+        a{
+            text-decoration: none;
+            font-size: 30px;
+
+        }
+    }
+}
+body{
+    background-color: darksalmon;
+}
+
+    
+   
